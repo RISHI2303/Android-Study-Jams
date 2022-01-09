@@ -39,3 +39,6 @@ The App has a very simple and interactive interface which helps a person to mana
 1. We can implement alarm feature in future.
 2. Notification feature can be implemented for a specific period of time.
 3. Animation can be improved.
+
+
+The app currently in the Alpha testing phase with a limited number of users. You can access the application: [Task Manager App](https://github.com/RISHI2303/Android-Study-Jams/releases/download/initial_publish/Task-Manager.apk).
