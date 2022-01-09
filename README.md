@@ -46,6 +46,6 @@ The app currently in the Alpha testing phase with a limited number of users. You
 
 ## **Contributors**
 
-[Rishi Goyal](https://github.com/RISHI2303)
-[Ridhvi Kulshrestha](https://github.com/RIDHVI07)
+[Rishi Goyal](https://github.com/RISHI2303), 
+[Ridhvi Kulshrestha](https://github.com/RIDHVI07), 
 [Hemant Sachdeva](https://github.com/HemantSachdeva)
