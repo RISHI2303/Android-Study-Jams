@@ -42,3 +42,10 @@ The App has a very simple and interactive interface which helps a person to mana
 
 
 The app currently in the Alpha testing phase with a limited number of users. You can access the application: [Task Manager App](https://github.com/RISHI2303/Android-Study-Jams/releases/download/initial_publish/Task-Manager.apk).
+
+
+## **Contributors**
+
+[Rishi Goyal](https://github.com/RISHI2303)
+[Ridhvi Kulshrestha](https://github.com/RIDHVI07)
+[Hemant Sachdeva](https://github.com/HemantSachdeva)
