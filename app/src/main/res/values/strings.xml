@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Task Manager App</string>
+
+    <string name="save_task">Save</string>
+    <string name="delete_task">Delete</string>
+    <string name="priority">Priority</string>
+    <string name="status_label">Status</string>
+    <string name="status_open">Open</string>
+    <string name="status_closed">Closed</string>
+    <string name="enter_task_title">Enter task title</string>
+    <string name="enter_task_detail">Enter task detail</string>
+    <string name="sort_by_title">Sort by Title</string>
+    <string name="sort_by_priority">Sort by Priority</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
